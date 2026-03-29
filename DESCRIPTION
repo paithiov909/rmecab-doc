@@ -1,7 +1,7 @@
 Type: Package
 Package: RMeCab
 Title: Interface to 'MeCab'
-Version: 1.14
+Version: 1.15
 Authors@R: c(
     person("Motohiro", "Ishida", , "ishida.motohiro@gmail.com", role = c("aut", "cre")),
     person("Taku", "Kudo", role = "cph"),
